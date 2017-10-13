@@ -1,0 +1,52 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   Online-Billing-System/build.xml
+#	new file:   Online-Billing-System/build/classes/.netbeans_automatic_build
+#	new file:   Online-Billing-System/build/classes/.netbeans_update_resources
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$1.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$10.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$11.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$12.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$13.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$14.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$15.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$16.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$17.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$18.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$19.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$2.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$20.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$21.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$22.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$23.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$24.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$25.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$26.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$27.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$28.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$3.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$4.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$5.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$6.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$7.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$8.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem$9.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem.class
+#	new file:   Online-Billing-System/build/classes/OnlineBillingSystem/BillingSystem.form
+#	new file:   Online-Billing-System/manifest.mf
+#	new file:   Online-Billing-System/nbproject/build-impl.xml
+#	new file:   Online-Billing-System/nbproject/genfiles.properties
+#	new file:   Online-Billing-System/nbproject/private/private.properties
+#	new file:   Online-Billing-System/nbproject/private/private.xml
+#	new file:   Online-Billing-System/nbproject/project.properties
+#	new file:   Online-Billing-System/nbproject/project.xml
+#	new file:   Online-Billing-System/src/OnlineBillingSystem/BillingSystem.form
+#	new file:   Online-Billing-System/src/OnlineBillingSystem/BillingSystem.java
+#
+
